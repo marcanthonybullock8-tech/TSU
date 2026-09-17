@@ -106,8 +106,8 @@ Where each founding cast member is, professionally, at the start and end of each
 
 | Character | Status, Start of Phase 1 (2002) | Status, End of Phase 1 (2004–05) | Notes |
 |---|---|---|---|
-| Marc-Anthony Bullock | Working actor/singer, pre-adult-breakout | *(platform assignment pending)* | IQ, net-worth trajectory, and family-dream arc established in Core Cast doc — do not contradict |
-| Amond Baker | Typecast, cooling career | *(platform assignment pending)* | Typecasting complication is ongoing — do not resolve it prematurely in a Phase 1 script |
+| Marc-Anthony Bullock | Working actor/singer, pre-adult-breakout | Founder/CEO, THE ROSTER (launched Feb 4, 2004) | Locked per `scripts/THE_ROSTER.md`. Public triumph, personal cost — closes Phase 1 estranged from Amond |
+| Amond Baker | Typecast, cooling career | Co-founder, THE ROSTER — diluted out via cap-table restructure; estranged from Marc-Anthony | Locked per `scripts/THE_ROSTER.md`. This wound is the direct inciting wound for his own founding story, Film 2/Phase 2 (see §9) |
 | Tyrese Avery | Established global pop superstar | *(platform assignment pending)* | Outside-industry POV character — his fame precedes TSU and isn't an arc to "build," keep it stable |
 | Esther Smilley | Award-winning actress, fighting "sweetheart" typecasting | *(platform assignment pending)* | Not yet romantically involved w/ Marc-Anthony — that doesn't begin until 2011, no film may imply earlier |
 | Arianna Cummings | Three professional near-misses, no breakthrough | *(platform assignment pending)* | Origin wound (lost role to follower count) is her defining motive — must be dramatized, not just referenced |
@@ -146,6 +146,12 @@ Phases are organized thematically, not strictly chronologically — same approac
 1. **Platform assignments** — which founder gets which platform. Nothing in §3 can be finalized until this is settled.
 
    **Locked constraint (user directive):** the core seven are founders of the major platforms that are **still popular and around to this day** — i.e., surviving/thriving platforms as of present day, not defunct ones. This rules out assigning any of the core seven as founders of platforms already marked dead on the Platform Roster (THE LEDGER, ROLL CALL, DEAR DIARY, HOMESTEAD, THE FIRST CIRCLE, TOP8, THE FLICKER) — those stay populated by Rivals/Extended Ensemble characters instead. Which specific surviving platforms (candidates per the Roster: THE ROSTER, THE PROJECTOR, THE FRAME, THE HIVE, THE WIRE/SIGNAL-0, THE ORACLE, THE OUTPOST, THE WHISPER NETWORK, THE BOARDROOM, THE ATLAS, THE EMBER) map to which of the seven is **explicitly not decided yet** — do not assign in any script or scene until this is resolved and logged here.
+
+   **Resolved so far:**
+   - **THE ROSTER → Marc-Anthony Bullock** (founder) **+ Amond Baker** (co-founder, diluted out). Locked per `scripts/THE_ROSTER.md`, Film 1 ("Iron Man" slot).
+   - **THE WIRE → Amond Baker** (sole founder, post-ROSTER). Locked as of this entry, Film 2 ("Incredible Hulk" slot) — see §9. Script not yet written.
+   - **THE BOARDROOM → no core-seven founder.** Per `scripts/THE_ROSTER.md` scene 13, it's already a mature "old guard" institution before Phase 1's story begins. It stays that way unless a future pass decides otherwise.
+   - Remaining unassigned: Tyrese Avery, Esther Smilley, Arianna Cummings, Harmony Divine, Tyler Chapman — and remaining unassigned surviving platforms: THE PROJECTOR, THE FRAME, THE HIVE, THE ORACLE, THE OUTPOST, THE WHISPER NETWORK, THE ATLAS, THE EMBER.
 2. Does Marc-Anthony's dynasty family (Natasha, Robert, Victor, Joan) have their own platform ties, or do they stay industry-only and never cross into TSU's tech side?
 3. Is Tyrese's "outside perspective" going to culminate in him founding a platform himself (likely music/audio-coded, e.g. a Clubhouse-style entry in Phase 4), or does he stay permanently adjacent as a non-founder?
 4. Does Tyler's music ambition get its own founding story later, or does it stay a personal subplot inside whichever platform story he's attached to?
@@ -162,5 +168,19 @@ Phases are organized thematically, not strictly chronologically — same approac
 | — | Doc created | Baseline canon established from Platform Roster + Core Cast docs |
 | — | Added §2 Format & House Style (genre, rating, runtime, page count, act/scene structure); renumbered §3–§8 | Locked universal format specs so all future scripts conform |
 | 2026-09-17 | Added platform-assignment constraint to §7 Q1: the core seven must be founders of platforms still popular/surviving today, not defunct ones. Specific mapping still undecided. | User directive — narrows the open question without resolving it |
+| 2026-09-17 | Locked Film 1 (THE ROSTER, Marc-Anthony + Amond) and Film 2 (THE WIRE, Amond solo) in §7 Q1 and new §9. Updated §4 tracker for Marc-Anthony and Amond accordingly. Confirmed THE BOARDROOM has no core-seven founder. | Script written for Film 1 (`scripts/THE_ROSTER.md`); Film 2 platform selected per user request, filling the "Incredible Hulk" release slot |
 
 *Doc status: Living document. This is the canon authority — if another doc ever conflicts with this one, this one wins until a change is logged in §8.*
+
+---
+
+## 9. FILM RELEASE ORDER — MCU-SLOT MAPPING
+
+Tracks which TSU film fills which MCU-analog release slot — a separate axis from the in-universe Phase timeline in §3. A film's release slot and its in-universe Phase do not have to match (exactly as *Iron Man*, Phase 1 slot 1, and *The Incredible Hulk*, Phase 1 slot 2, both released before *Captain Marvel* told a 1990s story in Phase 3).
+
+| Release Slot | MCU Analog | TSU Platform | Founder(s) | In-Universe Timeline | Status |
+|---|---|---|---|---|---|
+| Film 1 | Iron Man | THE ROSTER | Marc-Anthony Bullock (founder), Amond Baker (co-founder, diluted out) | Sept 2003 – Feb 4, 2004 | **Locked** — see `scripts/THE_ROSTER.md` |
+| Film 2 | The Incredible Hulk | THE WIRE | Amond Baker (sole founder) | ~2005 (rebuild) – 2006 (launch, fixed anchor per §3) | **Locked** platform/founder; script not yet written |
+
+**Why THE WIRE for Film 2:** Twitter/X's real cultural identity — fast, addictive, real-time, structurally incapable of nuance, capable of turning a normal person into a viral mob target before anyone can process what happened — is TSU's cleanest available "you wouldn't like me when I'm angry" analog. Amond Baker, walking away from THE ROSTER quietly furious and permanently under-credited, builds a platform meant to give people an unfiltered, unmediated voice — the opposite of being diluted and silenced — and it grows into something with real, uncontrollable power to destroy a person's reputation overnight, power even its own founder fears and can't fully leash. That's Bruce Banner's arc structurally: the guarded, controlled one builds (releases) something out of his own wound that becomes bigger, angrier, and more dangerous than he intended. It also lets Film 2 pay off Film 1's ending directly, satisfying the Continuity Bible's 30%-serialized cross-film thread rule (§1) without requiring the audience to have seen Film 1 to follow Film 2's own self-contained story (per the 70% rule).
