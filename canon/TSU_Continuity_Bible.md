@@ -144,6 +144,8 @@ Phases are organized thematically, not strictly chronologically — same approac
 *(Must be resolved before Phase 1 scripts lock)*
 
 1. **Platform assignments** — which founder gets which platform. Nothing in §3 can be finalized until this is settled.
+
+   **Locked constraint (user directive):** the core seven are founders of the major platforms that are **still popular and around to this day** — i.e., surviving/thriving platforms as of present day, not defunct ones. This rules out assigning any of the core seven as founders of platforms already marked dead on the Platform Roster (THE LEDGER, ROLL CALL, DEAR DIARY, HOMESTEAD, THE FIRST CIRCLE, TOP8, THE FLICKER) — those stay populated by Rivals/Extended Ensemble characters instead. Which specific surviving platforms (candidates per the Roster: THE ROSTER, THE PROJECTOR, THE FRAME, THE HIVE, THE WIRE/SIGNAL-0, THE ORACLE, THE OUTPOST, THE WHISPER NETWORK, THE BOARDROOM, THE ATLAS, THE EMBER) map to which of the seven is **explicitly not decided yet** — do not assign in any script or scene until this is resolved and logged here.
 2. Does Marc-Anthony's dynasty family (Natasha, Robert, Victor, Joan) have their own platform ties, or do they stay industry-only and never cross into TSU's tech side?
 3. Is Tyrese's "outside perspective" going to culminate in him founding a platform himself (likely music/audio-coded, e.g. a Clubhouse-style entry in Phase 4), or does he stay permanently adjacent as a non-founder?
 4. Does Tyler's music ambition get its own founding story later, or does it stay a personal subplot inside whichever platform story he's attached to?
@@ -159,5 +161,6 @@ Phases are organized thematically, not strictly chronologically — same approac
 |---|---|---|
 | — | Doc created | Baseline canon established from Platform Roster + Core Cast docs |
 | — | Added §2 Format & House Style (genre, rating, runtime, page count, act/scene structure); renumbered §3–§8 | Locked universal format specs so all future scripts conform |
+| 2026-09-17 | Added platform-assignment constraint to §7 Q1: the core seven must be founders of platforms still popular/surviving today, not defunct ones. Specific mapping still undecided. | User directive — narrows the open question without resolving it |
 
 *Doc status: Living document. This is the canon authority — if another doc ever conflicts with this one, this one wins until a change is logged in §8.*
