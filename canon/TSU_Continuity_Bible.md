@@ -106,7 +106,7 @@ Where each founding cast member is, professionally, at the start and end of each
 
 | Character | Status, Start of Phase 1 (2002) | Status, End of Phase 1 (2004–05) | Notes |
 |---|---|---|---|
-| Marc-Anthony Bullock | Working actor/singer, pre-adult-breakout | Founder/CEO, THE ROSTER (launched Feb 4, 2004) | Locked per `scripts/THE_ROSTER.md`. Public triumph, personal cost — closes Phase 1 estranged from Amond |
+| Marc-Anthony Bullock | Working actor/singer, pre-adult-breakout | Founder/CEO, THE ROSTER; survived the Feed War's opening attack, a managed arrhythmia, and a public reckoning with Solomon Kane's claim against Victor Donohue | Locked per `scripts/THE_ROSTER.md` and `scripts/THE_ROSTER_2.md`. Public triumph, personal cost — closes Phase 1 estranged from Amond, leaning on Esther and Tyrese instead |
 | Amond Baker | Typecast, cooling career | Co-founder, THE ROSTER — diluted out via cap-table restructure; estranged from Marc-Anthony | Locked per `scripts/THE_ROSTER.md`. This wound is the direct inciting wound for his own founding story, Film 2/Phase 2 (see §9) |
 | Tyrese Avery | Established global pop superstar | *(platform assignment pending)* | Outside-industry POV character — his fame precedes TSU and isn't an arc to "build," keep it stable |
 | Esther Smilley | Award-winning actress, fighting "sweetheart" typecasting | *(platform assignment pending)* | Not yet romantically involved w/ Marc-Anthony — that doesn't begin until 2011, no film may imply earlier |
@@ -169,6 +169,8 @@ Phases are organized thematically, not strictly chronologically — same approac
 | — | Added §2 Format & House Style (genre, rating, runtime, page count, act/scene structure); renumbered §3–§8 | Locked universal format specs so all future scripts conform |
 | 2026-09-17 | Added platform-assignment constraint to §7 Q1: the core seven must be founders of platforms still popular/surviving today, not defunct ones. Specific mapping still undecided. | User directive — narrows the open question without resolving it |
 | 2026-09-17 | Locked Film 1 (THE ROSTER, Marc-Anthony + Amond) and Film 2 (THE WIRE, Amond solo) in §7 Q1 and new §9. Updated §4 tracker for Marc-Anthony and Amond accordingly. Confirmed THE BOARDROOM has no core-seven founder. | Script written for Film 1 (`scripts/THE_ROSTER.md`); Film 2 platform selected per user request, filling the "Incredible Hulk" release slot |
+| 2026-09-17 | Standing rule added: a "what's the perfect platform" question is now always a cue to write the full script, not just select the platform. Locked Film 2's script (`scripts/THE_WIRE.md`). | User directive |
+| 2026-09-17 | Locked Film 3: THE ROSTER 2 ("Iron Man 2" slot), dramatizing the Feed War's opening act. Added Eldridge Kane, Solomon Kane, and Carter Westbrook to `TSU_Extended_Ensemble.md` and `TSU_Historical_Context.md` §5. Updated §4 tracker for Marc-Anthony. | Script written per user request (`scripts/THE_ROSTER_2.md`) |
 
 *Doc status: Living document. This is the canon authority — if another doc ever conflicts with this one, this one wins until a change is logged in §8.*
 
@@ -181,6 +183,9 @@ Tracks which TSU film fills which MCU-analog release slot — a separate axis fr
 | Release Slot | MCU Analog | TSU Platform | Founder(s) | In-Universe Timeline | Status |
 |---|---|---|---|---|---|
 | Film 1 | Iron Man | THE ROSTER | Marc-Anthony Bullock (founder), Amond Baker (co-founder, diluted out) | Sept 2003 – Feb 4, 2004 | **Locked** — see `scripts/THE_ROSTER.md` |
-| Film 2 | The Incredible Hulk | THE WIRE | Amond Baker (sole founder) | ~2005 (rebuild) – 2006 (launch, fixed anchor per §3) | **Locked** platform/founder; script not yet written |
+| Film 2 | The Incredible Hulk | THE WIRE | Amond Baker (sole founder) | March 2005 – March 21, 2006 (launch, fixed anchor per §3) | **Locked** — see `scripts/THE_WIRE.md` |
+| Film 3 | Iron Man 2 | THE ROSTER (again — dramatizes the opening act of the "Feed War" anchor, §3) | Marc-Anthony Bullock, solo (Amond absent — concurrent with his isolation period at the start of Film 2) | April 2004 – Jan 5, 2005 | **Locked** — see `scripts/THE_ROSTER_2.md` |
+
+**Note on Film 3:** dramatizes only the *opening* of the Feed War (TOP8 wounded, not finished) — the full ensemble payoff of that anchor is deliberately reserved for a later Phase 1 finale film, per house style §2's separate "Phase finale / ensemble crossover" spec, which Film 3 does not use. Film 3 also runs concurrent with the first few weeks of Film 2 (Amond is already isolating in Atlanta throughout Film 3 and does not appear onscreen in it).
 
 **Why THE WIRE for Film 2:** Twitter/X's real cultural identity — fast, addictive, real-time, structurally incapable of nuance, capable of turning a normal person into a viral mob target before anyone can process what happened — is TSU's cleanest available "you wouldn't like me when I'm angry" analog. Amond Baker, walking away from THE ROSTER quietly furious and permanently under-credited, builds a platform meant to give people an unfiltered, unmediated voice — the opposite of being diluted and silenced — and it grows into something with real, uncontrollable power to destroy a person's reputation overnight, power even its own founder fears and can't fully leash. That's Bruce Banner's arc structurally: the guarded, controlled one builds (releases) something out of his own wound that becomes bigger, angrier, and more dangerous than he intended. It also lets Film 2 pay off Film 1's ending directly, satisfying the Continuity Bible's 30%-serialized cross-film thread rule (§1) without requiring the audience to have seen Film 1 to follow Film 2's own self-contained story (per the 70% rule).
