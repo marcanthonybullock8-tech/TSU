@@ -1,5 +1,5 @@
 # THE ROSTER 2: FEED WAR
-### TSU Film 3 — the "Iron Man 2" release slot
+### TSU Film 3 — Release Phase 1 — the "Iron Man 2" release slot
 
 ---
 

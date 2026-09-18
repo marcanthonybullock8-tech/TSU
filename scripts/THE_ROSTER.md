@@ -1,5 +1,5 @@
 # THE ROSTER
-### The film that opens THE SOCIAL UNIVERSE (TSU) — Phase 1, Slot: "Iron Man"
+### TSU Film 1 — Release Phase 1 — the film that opens THE SOCIAL UNIVERSE (TSU), the "Iron Man" release slot
 
 ---
 

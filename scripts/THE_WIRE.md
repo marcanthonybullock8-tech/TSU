@@ -1,5 +1,5 @@
 # THE WIRE
-### TSU Film 2 — the "Incredible Hulk" release slot
+### TSU Film 2 — Release Phase 1 — the "Incredible Hulk" release slot
 
 ---
 

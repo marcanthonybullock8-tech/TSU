@@ -1,5 +1,5 @@
 # THE FRAME
-### TSU Film 5 — the "Captain America: The First Avenger" release slot
+### TSU Film 5 — Release Phase 1 — the "Captain America: The First Avenger" release slot
 
 ---
 
@@ -11,7 +11,7 @@
 
 **Who this film belongs to:** Arianna Cummings, solo founder — no co-founder-betrayal structure this time (that trope already ran twice, in `scripts/THE_ROSTER.md` and implicitly through Amond's arc; Cap's actual antagonist is external, not a best friend, and this film follows suit). Malcolm Pierce, a new character, fills the Peggy Carter position — competent, unglamorous, sees her clearly before anyone else does. Her brother Desmond Cummings Jr. (`TSU_Family_Bible.md`, already locked as a firefighter) fills the Bucky position. Dr. Adaeze Okonkwo-Brennan (`TSU_Extended_Ensemble.md`) fills the Erskine position — the one person who takes her raw idea seriously when every investor calls it "not flashy enough."
 
-**In-universe timeline:** **January 2009 – October 25, 2010.** THE FRAME's launch is fixed at 2010 (Phase 2 closes) per `TSU_Continuity_Bible.md` §3 — this script locks the exact date to October 25, 2010: Arianna's 28th birthday. Ages verified against `TSU_Core_Cast.md`: Arianna (b. Oct 25, 1982) is 26 at the film's open, turning 27 in October 2009 mid-film, and 28 the day THE FRAME launches — the industry spent years making her birthday a reminder of what hadn't happened yet; this is the first one that means something different.
+**In-universe timeline:** **January 2009 – October 25, 2010.** This film is **Release Phase 1, Film 5** — that's the number that matters when discussing "the sixth film" or "which Phase this film is." Its *story*, separately, falls inside **Story Phase 2** on the in-universe platform-launch timeline (`TSU_Continuity_Bible.md` §3: THE FRAME's launch is the anchor that closes Story Phase 2), the same way *Captain America: The First Avenger* is a Release Phase 1 film whose story is set decades before Release Phase 1's other entries. See `TSU_Continuity_Bible.md` §9 for the full Release-Phase-vs-Story-Phase distinction. This script locks the exact launch date to October 25, 2010: Arianna's 28th birthday. Ages verified against `TSU_Core_Cast.md`: Arianna (b. Oct 25, 1982) is 26 at the film's open, turning 27 in October 2009 mid-film, and 28 the day THE FRAME launches — the industry spent years making her birthday a reminder of what hadn't happened yet; this is the first one that means something different.
 
 ---
 

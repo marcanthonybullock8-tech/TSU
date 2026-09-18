@@ -1,5 +1,5 @@
 # THE PROJECTOR
-### TSU Film 4 — the "Thor" release slot
+### TSU Film 4 — Release Phase 1 — the "Thor" release slot
 
 ---
 
