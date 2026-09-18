@@ -78,13 +78,13 @@ Dates and events every film must treat as immovable fact. Individual films may s
 | TOP8 launches | 2003 | — |
 | THE BOARDROOM launches | 2003 | — |
 | THE ROSTER launches | Feb 2004 | Founding-four complete |
-| **Phase 1 Finale — "The Feed War"** | 2004–2005 | THE ROSTER absorbs/outlasts TOP8. First platform-vs-platform casualty event. |
+| **Phase 1 Finale — "The Feed War"** | 2004–2005 | THE ROSTER absorbs/outlasts TOP8. First platform-vs-platform casualty event. Opening act dramatized in `scripts/THE_ROSTER_2.md`; TOP8's full wind-down happens off-screen in the intervening years, referenced (not dramatized) in `scripts/THE_ASSEMBLY.md`. |
 | THE PROJECTOR launches | 2005 | Phase 2 begins |
 | THE HIVE launches | 2005 | — |
 | THE WIRE launches | 2006 | — |
 | THE GALLERY launches | 2007 | — |
 | THE FRAME launches | 2010 | Phase 2 closes |
-| **Phase 2 Finale — "The Quiet Acquisition"** | 2010–2012 | THE ROSTER acquires THE FRAME |
+| **Phase 2 Finale — "The Quiet Acquisition"** | 2010–2012 | THE ROSTER acquires THE FRAME. Dramatized in `scripts/THE_ASSEMBLY.md` (2011) as a fair deal on Arianna Cummings's own terms — the anchor is honored corporately, reframed emotionally as redemption for Film 1's freeze-out rather than a repeat of it. |
 | THE WHISPER NETWORK launches | 2009 | Phase 3 begins (chronological overlap w/ Phase 2 is intentional — see §5) |
 | THE ATLAS launches | 2010 | — |
 | THE EMBER launches | 2011 | — |
@@ -119,6 +119,18 @@ Where each founding cast member is, professionally, at the start and end of each
 - Amond & Harmony: circling throughout Phase 1–3, together 2013, married 2015
 - Emma & Victoria Bullock born May 10, 2012 (twins)
 - Lyric Baker born April 20, 2014; Marc-Anthony is godfather
+
+**Status after Film 6 (`scripts/THE_ASSEMBLY.md`, closing Nov 2011)** — a second checkpoint, since the table above only tracks through in-universe Phase 1 (2004–05) and the release-slot slate runs well past that:
+
+| Character | Status, end of THE ASSEMBLY (2011) |
+|---|---|
+| Marc-Anthony Bullock | Founder/CEO, THE ROSTER; refused a hostile acquisition of THE FRAME and negotiated a fair one instead; reconciling with Amond, not yet fully; together with Esther as of this film, per the locked date |
+| Amond Baker | Founder/CEO, THE WIRE; the one who spotted Teddy's pattern first and warned Arianna; reconciling with Marc-Anthony, not yet fully — deliberately unresolved |
+| Tyrese Avery | Founder, THE PROJECTOR, now fully stable under Jamal Kester's product leadership; with Dr. Simone Kester |
+| Esther Smilley | Effectively running much of THE ROSTER's day-to-day operations; together with Marc-Anthony as of this film |
+| Arianna Cummings | THE FRAME acquired by THE ROSTER on her own terms — full creative control retained, her name still on the door; with Malcolm Pierce |
+| Harmony Divine | Still circling Amond, deliberately unresolved per the locked 2013 date |
+| Tyler Chapman | Unassigned, unresolved — secret music ambition still an open Chekhov's gun for a future Phase |
 
 ---
 
@@ -176,6 +188,7 @@ Phases are organized thematically, not strictly chronologically — same approac
 | 2026-09-18 | Split the Donohue Estate from the Bullock Estate as separate residences; fixed three Victor's-study sluglines in `scripts/THE_ROSTER_2.md` accordingly. | User correction |
 | 2026-09-18 | Locked Film 4: THE PROJECTOR ("Thor" slot), founded by Tyrese Avery. Added Jamal Kester and Dr. Simone Kester to `TSU_Extended_Ensemble.md`. Flagged THE FRAME as reserved for the eventual "Captain America" slot rather than assigning it casually. Updated §4 tracker for Tyrese. | Script written per user request (`scripts/THE_PROJECTOR.md`) |
 | 2026-09-18 | Locked Film 5: THE FRAME ("Captain America: The First Avenger" slot), founded by Arianna Cummings, claiming the reservation flagged in Film 4. Added Celeste Marlowe and Malcolm Pierce to `TSU_Extended_Ensemble.md`; activated Dr. Adaeze Okonkwo-Brennan and Delphine Okonkwo-Ash on-screen for the first time. Added Arianna's first locked relationship to `TSU_Core_Cast.md`. Updated §4 tracker for Arianna. | Script written per user request (`scripts/THE_FRAME.md`) |
+| 2026-09-18 | Locked Film 6: THE ASSEMBLY ("The Avengers" slot, Phase 1 Finale/Ensemble Crossover), closing the Film 1–6 release slate. No new core-seven platform assignment; dramatizes the Feed War's off-screen resolution and the Quiet Acquisition anchor. Added THE EVERYTHING to `TSU_Platform_Roster.md` Phase 3, resolving its "Open Slots to Discuss" Google+ note. Cashed in Teddy Ashcombe-Vance's full betrayal reveal and Yolanda Ferreira-Ashe's defection in `TSU_Extended_Ensemble.md`. Added a post-Film-6 status checkpoint to §4 (the original table only tracks through in-universe Phase 1). | Script written per user request (`scripts/THE_ASSEMBLY.md`) |
 
 *Doc status: Living document. This is the canon authority — if another doc ever conflicts with this one, this one wins until a change is logged in §8.*
 
@@ -192,8 +205,11 @@ Tracks which TSU film fills which MCU-analog release slot — a separate axis fr
 | Film 3 | Iron Man 2 | THE ROSTER (again — dramatizes the opening act of the "Feed War" anchor, §3) | Marc-Anthony Bullock, solo (Amond absent — concurrent with his isolation period at the start of Film 2) | April 2004 – Jan 5, 2005 | **Locked** — see `scripts/THE_ROSTER_2.md` |
 | Film 4 | Thor | THE PROJECTOR | Tyrese Avery, solo | April 2005 – Dec 2005 (launch anchor 2005 per §3) | **Locked** — see `scripts/THE_PROJECTOR.md` |
 | Film 5 | Captain America: The First Avenger | THE FRAME | Arianna Cummings, solo | Jan 2009 – Oct 25, 2010 (launch anchor 2010 per §3) | **Locked** — see `scripts/THE_FRAME.md` |
+| Film 6 | The Avengers (Phase 1 finale / ensemble crossover) | No new platform — THE EVERYTHING (new, Cassius Wren) as the threat; dramatizes the Feed War's off-screen resolution and the Quiet Acquisition anchor | Marc-Anthony Bullock, Amond Baker, Tyrese Avery, Arianna Cummings, all four together, with Esther Smilley, Harmony Divine, and Tyler Chapman in load-bearing supporting roles | Jan 2011 – Nov 2011 | **Locked** — see `scripts/THE_ASSEMBLY.md`. Closes the TSU Film 1–6 release slate. |
 
 **Note on Film 3:** dramatizes only the *opening* of the Feed War (TOP8 wounded, not finished) — the full ensemble payoff of that anchor is deliberately reserved for a later Phase 1 finale film, per house style §2's separate "Phase finale / ensemble crossover" spec, which Film 3 does not use. Film 3 also runs concurrent with the first few weeks of Film 2 (Amond is already isolating in Atlanta throughout Film 3 and does not appear onscreen in it).
+
+**Why THE ASSEMBLY (no new platform) for Film 6:** the Avengers doesn't introduce a new hero's origin — it forces the ones already introduced into the same room against a threat none of them can survive alone. TSU already had the pieces built and waiting: Priya Ramasubramanian's corkboard (three stingers running), Marc-Anthony and Amond's unresolved estrangement, Teddy Ashcombe-Vance's slow-burn betrayal (his bible entry always called for a reveal "across two Phases"), and the Platform Roster's own long-standing "Open Slots to Discuss" note asking for a Google+ analog "that sounds like hubris." THE EVERYTHING (Cassius Wren, new) fills that last slot as the villain rather than a hero, and its collapse gives TSU's fractured, competing ecosystem its clearest possible thematic statement: many platforms coexisting is the correct outcome, not an unsolved problem.
 
 **Why THE FRAME for Film 5:** THE FRAME was flagged as reserved for the Captain America slot back when THE PROJECTOR was locked (Film 4), because it already carried that framing in the Platform Roster before any release-slot planning began. Arianna Cummings is the only remaining core-seven member whose origin wound was locked as *mandatory to dramatize* (§4) — a person told, repeatedly, by every gatekeeper that she lacks the superficial thing they're measuring, until someone finally sees what's real underneath. This film deliberately does not repeat the co-founder-betrayal structure used twice already (Films 1 and, by extension, 2) — Cap's antagonist is external, not a best friend, so Malcolm Pierce fills the Peggy Carter position (a new, unlocked relationship, same pattern as Tyrese/Simone) rather than a co-founder role, and Desmond Cummings Jr. (already locked as a firefighter in the Family Bible) fills the Bucky position without requiring any retcon.
 
