@@ -115,8 +115,8 @@ Where each founding cast member is, professionally, at the start and end of each
 | Tyler Chapman | Steady "and also starring" work, capped ceiling | *(platform assignment pending)* | Secret music ambition is a Chekhov's gun — a later Phase should pay it off |
 
 **Locked romantic timeline** (do not contradict in any script, flashback, or flash-forward):
-- Marc-Anthony & Esther: friends throughout Phase 1–2, together 2011, married 2013
-- Amond & Harmony: circling throughout Phase 1–3, together 2013, married 2015
+- Marc-Anthony & Esther: friends throughout Phase 1–2, together 2011, married June 2013 (dramatized in `scripts/THE_FRAME_2.md`)
+- Amond & Harmony: circling throughout Phase 1–3, together June 2013 at the above wedding (dramatized in `scripts/THE_FRAME_2.md`), married 2015
 - Emma & Victoria Bullock born May 10, 2012 (twins)
 - Lyric Baker born April 20, 2014; Marc-Anthony is godfather
 
@@ -141,6 +141,16 @@ Where each founding cast member is, professionally, at the start and end of each
 | Amond Baker | Founder/CEO, THE WIRE; caught Marc-Anthony's second collapse before anyone else did; reconciliation with Marc-Anthony now genuinely warm, if still imperfect |
 | Tyrese Avery / Arianna Cummings | Both platforms' engineering teams co-built THE ROSTER's proof-of-origin countermeasure — the ensemble's first fully coordinated technical collaboration across companies |
 | Desmond Okafor-Lindqvist | Exposed and in legal proceedings via Constance Abiodun-Mayhew; settlement includes public patent credit rather than just consulting fees |
+
+**Status after Film 8 (`scripts/THE_FRAME_2.md`, closing Aug 2013):**
+
+| Character | Status, end of THE FRAME 2 (Aug 2013) |
+|---|---|
+| Arianna Cummings | Declined THE ROSTER's executive committee seat; stays at THE FRAME on her own terms; her father Walter Cummings died July 2013 (see `TSU_Family_Bible.md`); THE FRAME's next chapter launched in his memory |
+| Marc-Anthony Bullock & Esther Smilley | Married June 2013 — the locked date, finally dramatized |
+| Amond Baker & Harmony Divine | Together as of June 2013, at the above wedding — the locked date, finally dramatized; married 2015 still to come |
+| Marcus Nguyen-Brandt | Genuinely helped Arianna at real cost to his usual practice; quietly absorbed a significant, unacknowledged share of Delphine Okonkwo-Ash's collapsed operation in the process — a thread left open, not resolved |
+| Celeste Marlowe / Delphine Okonkwo-Ash | THE HOLLOW exposed and collapsed; Delphine still won't call it a loss |
 
 ---
 
@@ -202,6 +212,8 @@ Phases are organized thematically, not strictly chronologically — same approac
 | 2026-09-18 | Disambiguated "Phase" into **Release Phase** (film slate groupings, e.g. "Films 1–6 are Release Phase 1") and **Story Phase** (§3's in-universe platform-launch eras) — the two had been used interchangeably since Film 1's header, which is exactly what made THE FRAME (Film 5, Release Phase 1, but a Story-Phase-2-dated story) read as a contradiction. Added the distinction to §9's intro and every row of its table, and updated every script's title header (`scripts/THE_ROSTER.md` through `scripts/THE_ASSEMBLY.md`) to say "Release Phase 1" explicitly. No dates, founders, or platform assignments changed — this is a labeling fix only. | User correction: "The FRAME is actually in phase 1. It's the fifth film of phase 1" |
 | 2026-09-18 | Locked Emma and Victoria Bullock's conception date at approximately September 15, 2011, using realistic twin-gestation dating (36-week average GA, not a full-term 40 weeks) back from their locked May 10, 2012 birth. Ties directly to `scripts/THE_ASSEMBLY.md` scene 32, now dated September 2011 explicitly. Added the full pregnancy timeline to `TSU_Family_Bible.md`'s Victoria Bullock entry. | User question: "When would Esther Smilley be pregnant with the twins... make it realistic to real life pregnancies" |
 | 2026-09-18 | Locked Film 7: THE ROSTER 3: THE UNSEEN ("Iron Man 3" slot), opening Release Phase 2. No new platform; a third THE ROSTER film, closing on the fixed May 10, 2012 twin-birth date. Activated Desmond Okafor-Lindqvist's promised resurfacing in `TSU_Extended_Ensemble.md` as the Aldrich Killian analog. Esther Smilley formally named THE ROSTER's President in-story. Added §9 Release Phase 2 note and a post-Film-7 §4 checkpoint. | Script written per user request (`scripts/THE_ROSTER_3.md`) |
+| 2026-09-18 | Clarified §4's post-Film-7 checkpoint: Marc-Anthony remains Chairman and CEO of THE ROSTER, unchanged; Esther's new title is President over day-to-day operations specifically, not a change to his role. | User correction |
+| 2026-09-18 | Locked Film 8: THE FRAME 2: THE HOLLOW ("Thor: The Dark World" slot), Release Phase 2 Film 2. No new platform; a second THE FRAME film. Activated Celeste Marlowe's promised return and Marcus Nguyen-Brandt's first on-screen use in `TSU_Extended_Ensemble.md`. Locked Walter Cummings's death (July 2013) in `TSU_Family_Bible.md`. Finally dramatized the Marc-Anthony/Esther wedding and Amond/Harmony's "together 2013" beat, both locked since the franchise's earliest canon and never yet staged on-screen — updated the locked romantic timeline in §4 accordingly. Added a post-Film-8 §4 checkpoint. | Script written per user request (`scripts/THE_FRAME_2.md`) |
 
 *Doc status: Living document. This is the canon authority — if another doc ever conflicts with this one, this one wins until a change is logged in §8.*
 
@@ -225,8 +237,11 @@ A film's Release Phase and its story's Story Phase do not have to match, and mos
 | Film 5 | Captain America: The First Avenger | THE FRAME | Arianna Cummings, solo | Jan 2009 – Oct 25, 2010, launch anchor 2010 per §3 (Story Phase 2 — see the Release/Story Phase note above; this film is Release Phase 1 regardless) | **Locked** — see `scripts/THE_FRAME.md` |
 | Film 6 | The Avengers (Release Phase 1 finale / ensemble crossover) | No new platform — THE EVERYTHING (new, Cassius Wren) as the threat; dramatizes the Feed War's off-screen resolution and the Quiet Acquisition anchor | Marc-Anthony Bullock, Amond Baker, Tyrese Avery, Arianna Cummings, all four together, with Esther Smilley, Harmony Divine, and Tyler Chapman in load-bearing supporting roles | Jan 2011 – Nov 2011 (Story Phase 3) | **Locked** — see `scripts/THE_ASSEMBLY.md`. Closes Release Phase 1 (Films 1–6). |
 | Film 7 | Iron Man 3 (Release Phase 2, Film 1) | THE ROSTER, a third time — no new founding story | Marc-Anthony Bullock (lead), Esther Smilley (full co-lead, her own hero beat), Amond Baker, Tyrese Avery, and Arianna Cummings in coordinated ensemble support | Jan 5, 2012 – May 10, 2012 (Story Phase 3; closes on the fixed, locked twin-birth date) | **Locked** — see `scripts/THE_ROSTER_3.md`. Opens Release Phase 2. |
+| Film 8 | Thor: The Dark World (Release Phase 2, Film 2) | THE FRAME, a second time — no new founding story | Arianna Cummings and Malcolm Pierce (leads); Marc-Anthony/Esther and Amond/Harmony's locked relationship beats dramatized on-screen for the first time as ensemble support | Feb 2013 – Aug 2013 (Story Phase 3) | **Locked** — see `scripts/THE_FRAME_2.md`. |
 
 **Note on Film 3:** dramatizes only the *opening* of the Feed War (TOP8 wounded, not finished) — the full ensemble payoff of that anchor is deliberately reserved for a later Phase 1 finale film, per house style §2's separate "Phase finale / ensemble crossover" spec, which Film 3 does not use. Film 3 also runs concurrent with the first few weeks of Film 2 (Amond is already isolating in Atlanta throughout Film 3 and does not appear onscreen in it).
+
+**Why a second THE FRAME for Film 8 (Thor: The Dark World slot):** The Dark World's shape is grief arriving mid-stability, an old ideology nobody actually killed the first time, an uneasy alliance with a trickster figure, and a throne turned down for something truer. Celeste Marlowe's bible entry always specified "outlasted, not defeated" — she was built to return. Marcus Nguyen-Brandt's bible entry always specified "offered to different founders at different low points" and had never yet been cashed in — he's the cleanest available Loki on the roster. And this film is the natural place to finally dramatize two locked-since-the-start beats that had been sitting unstaged for the entire franchise: the Marc-Anthony/Esther wedding and the Amond/Harmony "together 2013" moment, both due in exactly this year per §4's locked romantic timeline.
 
 **Why a third THE ROSTER for Film 7 (Release Phase 2 opener):** Iron Man 3 opens on a hero surviving the aftermath of a giant public battle, not building anything new — panic attacks, obsessive over-building, a past dismissal arriving to collect. Marc-Anthony is the only core-seven founder with an existing multi-film arc (Films 1 and 3) and a standing health-scare thread (the arrhythmia from Film 3) built to escalate under exactly this kind of stress. Desmond Okafor-Lindqvist's bible entry already called for a resurfacing "in later Phases" as a scorned-but-brilliant consultant — the Aldrich Killian slot needs exactly that shape of villain, someone with a real grievance rather than a cartoon one. Esther Smilley, now locked as running THE ROSTER's operations day to day, gets the Pepper-Potts-Extremis beat: not rescued, self-rescuing, on her own terms, seven months pregnant.
 

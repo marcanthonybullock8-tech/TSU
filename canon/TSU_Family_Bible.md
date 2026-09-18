@@ -106,6 +106,8 @@ Arianna's mother — an elementary school teacher in Baldwin Hills, the parent i
 ### WALTER CUMMINGS
 Arianna's father — a city bus driver for the LA Metro system for over twenty-five years, steady in a way that shaped Arianna's own quiet resilience. Enormously proud of his daughter without fully following the specifics of her career (he can never quite remember which pilot got cancelled or which festival the indie premiered at, and Arianna finds this more endearing than frustrating). He's the parent most likely to show up unannounced to whatever small showcase or reading she's doing that week, sitting in the back, clapping the loudest regardless of the size of the room.
 
+**Death (locked):** Dies of a heart attack in July 2013, alone at home, watching news coverage of the THE HOLLOW crisis and worried sick about his daughter in the way he rarely said out loud (`scripts/THE_FRAME_2.md`, the Frigga analog). Arianna arrives at the hospital too late. His death becomes the emotional spine of THE FRAME's second act and the human standard — real people who knew and loved him, on camera, unfakeable — that ultimately exposes Celeste Marlowe's synthetic-creator technology at the film's climax.
+
 ### DESMOND CUMMINGS JR.
 Arianna's older brother by seven years — a firefighter, the sibling who's spent Arianna's entire career gently needling her about "playing pretend for a living" while being, privately, her single most devoted supporter. He's the one who drives two hours to catch a closing-night performance of something that ran for six people and a critic. Their relationship runs almost entirely on affectionate mutual teasing, which makes the rare moments he drops the act and tells her directly how proud he is land twice as hard.
 
