@@ -43,7 +43,7 @@ PG-13 across the entire universe. No exceptions, no R-rated entries, no PG entri
 | Standard platform-origin film | 130–150 minutes |
 | Phase finale / ensemble crossover | 150–180 minutes |
 
-**Script Page Count** *(Industry standard: 1 page ≈ 1 minute of screen time)*
+**Script Page Count** *(Industry standard: 1 page is about 1 minute of screen time)*
 
 | Entry Type | Page Count |
 |---|---|
@@ -135,7 +135,7 @@ Because THE ENGINE, THE LEAK, THE SWARM, and THE COPIES are forces rather than s
 
 ## 6. KNOWN TIMELINE OVERLAP (INTENTIONAL, NOT AN ERROR)
 
-Phases are organized thematically, not strictly chronologically — same approach MCU uses (Captain Marvel is set in the 90s but released in Phase 3). THE WHISPER NETWORK (2009) launches before THE FRAME (2010) closes out Phase 2. This is intentional: Phase boundaries mark thematic shifts (Media Wars → Mobile Saga), not hard calendar cutoffs. Any writer confused by an out-of-phase date should check this section before "fixing" it.
+Phases are organized thematically, not strictly chronologically — same approach MCU uses (Captain Marvel is set in the 90s but released in Phase 3). THE WHISPER NETWORK (2009) launches before THE FRAME (2010) closes out Phase 2. This is intentional: Phase boundaries mark thematic shifts (Media Wars -> Mobile Saga), not hard calendar cutoffs. Any writer confused by an out-of-phase date should check this section before "fixing" it.
 
 ---
 
@@ -148,11 +148,11 @@ Phases are organized thematically, not strictly chronologically — same approac
    **Locked constraint (user directive):** the core seven are founders of the major platforms that are **still popular and around to this day** — i.e., surviving/thriving platforms as of present day, not defunct ones. This rules out assigning any of the core seven as founders of platforms already marked dead on the Platform Roster (THE LEDGER, ROLL CALL, DEAR DIARY, HOMESTEAD, THE FIRST CIRCLE, TOP8, THE FLICKER) — those stay populated by Rivals/Extended Ensemble characters instead. Which specific surviving platforms (candidates per the Roster: THE ROSTER, THE PROJECTOR, THE FRAME, THE HIVE, THE WIRE/SIGNAL-0, THE ORACLE, THE OUTPOST, THE WHISPER NETWORK, THE BOARDROOM, THE ATLAS, THE EMBER) map to which of the seven is **explicitly not decided yet** — do not assign in any script or scene until this is resolved and logged here.
 
    **Resolved so far:**
-   - **THE ROSTER → Marc-Anthony Bullock** (founder) **+ Amond Baker** (co-founder, diluted out). Locked per `scripts/THE_ROSTER.md`, Film 1 ("Iron Man" slot).
-   - **THE WIRE → Amond Baker** (sole founder, post-ROSTER). Locked as of this entry, Film 2 ("Incredible Hulk" slot) — see §9. Script not yet written.
-   - **THE BOARDROOM → no core-seven founder.** Per `scripts/THE_ROSTER.md` scene 13, it's already a mature "old guard" institution before Phase 1's story begins. It stays that way unless a future pass decides otherwise.
-   - **THE PROJECTOR → Tyrese Avery** (sole founder). Locked, Film 4 ("Thor" release slot) — see §9. Script: `scripts/THE_PROJECTOR.md`.
-   - **THE FRAME → reserved, not yet assigned.** Already tagged "Captain America" in the Platform Roster before any release-slot planning began — treat this as a strong signal for whichever core-seven member eventually fills that slot, and do not assign it casually to close out a different film.
+   - **THE ROSTER -> Marc-Anthony Bullock** (founder) **+ Amond Baker** (co-founder, diluted out). Locked per `scripts/THE_ROSTER.md`, Film 1 ("Iron Man" slot).
+   - **THE WIRE -> Amond Baker** (sole founder, post-ROSTER). Locked as of this entry, Film 2 ("Incredible Hulk" slot) — see §9. Script not yet written.
+   - **THE BOARDROOM -> no core-seven founder.** Per `scripts/THE_ROSTER.md` scene 13, it's already a mature "old guard" institution before Phase 1's story begins. It stays that way unless a future pass decides otherwise.
+   - **THE PROJECTOR -> Tyrese Avery** (sole founder). Locked, Film 4 ("Thor" release slot) — see §9. Script: `scripts/THE_PROJECTOR.md`.
+   - **THE FRAME -> reserved, not yet assigned.** Already tagged "Captain America" in the Platform Roster before any release-slot planning began — treat this as a strong signal for whichever core-seven member eventually fills that slot, and do not assign it casually to close out a different film.
    - Remaining unassigned: Esther Smilley, Arianna Cummings, Harmony Divine, Tyler Chapman — and remaining unassigned surviving platforms: THE FRAME (reserved, see above), THE HIVE, THE ORACLE, THE OUTPOST, THE WHISPER NETWORK, THE ATLAS, THE EMBER.
 2. Does Marc-Anthony's dynasty family (Natasha, Robert, Victor, Joan) have their own platform ties, or do they stay industry-only and never cross into TSU's tech side?
 3. Is Tyrese's "outside perspective" going to culminate in him founding a platform himself (likely music/audio-coded, e.g. a Clubhouse-style entry in Phase 4), or does he stay permanently adjacent as a non-founder?

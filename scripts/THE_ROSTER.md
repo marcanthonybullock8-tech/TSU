@@ -71,7 +71,7 @@ A first, unnamed glimpse of **THE ENGINE** (`TSU_Platform_Roster.md`, Villains B
 
 ## FULL SCENE-BY-SCENE BREAKDOWN
 
-*(Numbered as a real shooting script would be. Page counts are cumulative estimates at 1 page ≈ 1 minute, per house style.)*
+*(Numbered as a real shooting script would be. Page counts are cumulative estimates at about 1 page per minute, per house style.)*
 
 ### ACT I — pp. 1–33 ("The Ask")
 

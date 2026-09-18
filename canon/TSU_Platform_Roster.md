@@ -3,7 +3,7 @@
 
 **Franchise Mandate:** Every real-world platform gets a fictional 1:1 analog — same cultural role, same rise/fall arc, same "powers" — built to be owned, merchandised, and continued past where reality stops. Faithful to the *spirit* of the source, not the *name* of it.
 
-Organized like MCU Phases: founding era → expansion → fragmentation → the current cinematic battlefield.
+Organized like MCU Phases: founding era -> expansion -> fragmentation -> the current cinematic battlefield.
 
 ---
 
@@ -80,7 +80,7 @@ Organized like MCU Phases: founding era → expansion → fragmentation → the 
 |---|---|---|
 | The Algorithm (generic) | **THE ENGINE** | Not a platform — the force *inside* every platform that decides what you see. Whoever controls it controls everything. Every platform has one; none of them admit how much power it has. |
 | Data breaches / privacy scandals | **THE LEAK** | A recurring catastrophic event, not a character — a disaster that hits a different platform every Phase, always with the same beat: trust breaks, users flee, someone testifies before Congress. |
-| Influencer culture / MLM-adjacent grift | **THE SWARM** | A parasitic subculture that infects every platform in turn, reskinning itself each time (bloggers → YouTubers → Instagram influencers → TikTokers). A recurring trickster antagonist — never fully defeated, just rebranded. |
+| Influencer culture / MLM-adjacent grift | **THE SWARM** | A parasitic subculture that infects every platform in turn, reskinning itself each time (bloggers -> YouTubers -> Instagram influencers -> TikTokers). A recurring trickster antagonist — never fully defeated, just rebranded. |
 | Bots / fake engagement | **THE COPIES** | An army, not a villain. Swells right before a platform's downfall, always dismissed as harmless until it isn't. |
 
 ---
