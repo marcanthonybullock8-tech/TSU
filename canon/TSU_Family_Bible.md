@@ -76,6 +76,8 @@ Tyrese's father — a Baptist minister in Atlanta with a genuinely renowned sing
 ### CORALEE AVERY
 Tyrese's mother — ran the church's youth choir for thirty years and privately takes more credit for half the vocal arrangers in the modern music industry than she'll ever publicly claim. Warm, formidable, the kind of mother who can silence a room with a single look and does so regularly to her famous son whenever he starts believing his own press. She and Reverend Earl are TSU's rare stable, long-married couple among the parents of the core seven — a deliberate contrast to how many of the other family units are fractured, remarried, or absent.
 
+**Death (locked):** Dies of a sudden stroke in July 2013, mid-crisis, after watching news coverage of children being harmed by THE LULLABY's addictive content and worrying, out loud for once, about what that kind of thing does to a generation of kids like the ones she spent thirty years directing in choir (`scripts/THE_PROJECTOR_2.md`, the Frigga analog). Her death becomes the emotional spine of the film's second act — the reason Tyrese finally stops treating the crisis as a business problem.
+
 ### JERICHO "JERI" AVERY
 Tyrese's younger brother by six years — his road manager, and one of the only people in Tyrese's professional orbit who isn't on payroll because Tyrese felt obligated, he's just genuinely the best person for the job. Sharp, funny, has zero patience for industry nonsense, and functions as Tyrese's reality check the way Amond functions as Marc-Anthony's — a sibling who followed a famous brother into the business but built his own lane inside it rather than living in his shadow.
 
@@ -105,8 +107,6 @@ Arianna's mother — an elementary school teacher in Baldwin Hills, the parent i
 
 ### WALTER CUMMINGS
 Arianna's father — a city bus driver for the LA Metro system for over twenty-five years, steady in a way that shaped Arianna's own quiet resilience. Enormously proud of his daughter without fully following the specifics of her career (he can never quite remember which pilot got cancelled or which festival the indie premiered at, and Arianna finds this more endearing than frustrating). He's the parent most likely to show up unannounced to whatever small showcase or reading she's doing that week, sitting in the back, clapping the loudest regardless of the size of the room.
-
-**Death (locked):** Dies of a heart attack in July 2013, alone at home, watching news coverage of the THE HOLLOW crisis and worried sick about his daughter in the way he rarely said out loud (`scripts/THE_FRAME_2.md`, the Frigga analog). Arianna arrives at the hospital too late. His death becomes the emotional spine of THE FRAME's second act and the human standard — real people who knew and loved him, on camera, unfakeable — that ultimately exposes Celeste Marlowe's synthetic-creator technology at the film's climax.
 
 ### DESMOND CUMMINGS JR.
 Arianna's older brother by seven years — a firefighter, the sibling who's spent Arianna's entire career gently needling her about "playing pretend for a living" while being, privately, her single most devoted supporter. He's the one who drives two hours to catch a closing-night performance of something that ran for six people and a critic. Their relationship runs almost entirely on affectionate mutual teasing, which makes the rare moments he drops the act and tells her directly how proud he is land twice as hard.
