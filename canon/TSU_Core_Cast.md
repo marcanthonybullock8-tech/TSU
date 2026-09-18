@@ -95,6 +95,9 @@ Arianna is the sharpest read on the industry in the entire friend group, precise
 **The Complication**
 The "hasn't broken through yet" isn't abstract — it has a shape. She's watched three different projects almost be the one: the acclaimed indie with no distributor, the pilot that got cancelled after four episodes, the studio role she tested for twice and lost to someone with a bigger Instagram following before Instagram even fully existed yet — an early, personal taste of exactly the kind of gatekeeping that platforms will later blow open. That specific irony — losing a role to someone with more *followers* in an era before "followers" meant anything yet — is her origin wound, and it's the single most direct throughline from any character in the cast to *why* she'd want to build a platform instead of waiting for Hollywood's permission.
 
+**The Relationship**
+Malcolm Pierce. Like Tyrese, Arianna had no locked romantic timeline in the original source material — this one originates in `scripts/THE_FRAME.md`. A documentary photographer with no following of his own and a genuine eye, he's the first person to see her clearly rather than politely.
+
 ---
 
 ### HARMONY DIVINE (later Baker)
