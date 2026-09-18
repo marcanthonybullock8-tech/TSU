@@ -128,7 +128,7 @@ Because THE ENGINE, THE LEAK, THE SWARM, and THE COPIES are forces rather than s
 
 - **THE ENGINE** may appear inside any platform's internal story, but must manifest differently each time (it's not one villain wearing different masks — it's a recurring *idea*, re-cast in tone and visual language per platform). THE ENGINE inside THE ROSTER should not look or feel like THE ENGINE inside THE ORACLE.
 - **THE LEAK** is a one-per-Phase maximum event. Overusing it flattens its impact — it should land like a real scandal, not a plot device you can pull twice a Phase.
-- **THE SWARM** is the only bench villain allowed genuine comic relief — it's your Loki-tier trickster and should never be played as a pure threat.
+- **THE SWARM** is the only bench villain allowed genuine comic relief — a trickster figure that should never be played as a pure threat.
 - **THE COPIES** exist to signal a platform's decline is coming, never to be the actual reason a platform falls. The real cause of any platform's fall must always trace back to a character decision, per the "faithful to source material" mandate — these platforms died from human choices (acquisitions, mismanagement, neglect), not from an abstract force acting alone.
 
 ---

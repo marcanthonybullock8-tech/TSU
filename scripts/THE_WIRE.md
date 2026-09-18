@@ -5,7 +5,7 @@
 
 ## THE PITCH
 
-**Platform:** THE WIRE — TSU's fictional 1:1 counterpart to Twitter/X (per `TSU_Platform_Roster.md`, Phase 2 — "Your Quicksilver: everything happens through it before anyone can process it.")
+**Platform:** THE WIRE — TSU's fictional 1:1 counterpart to Twitter/X (per `TSU_Platform_Roster.md`, Phase 2 — fast, addictive, everything happens through it before anyone can process it.)
 
 **Who this film belongs to:** Amond Baker, solo. This is not an ensemble film with Amond in it — this is Amond's film, full stop, the way *The Incredible Hulk* belongs to Bruce Banner even with Betty Ross and Ross's army circling him. Marc-Anthony Bullock appears in a supporting, reconciliation-adjacent role (per Continuity Bible §9, this film is built to pay off Film 1's ending without requiring anyone to have seen it). Harmony Divine has real presence here — this sits inside their locked decade-long "circling" window (2004–2013), and this is the film where the audience first understands why they never quite say anything. Tyrese Avery, Esther Smilley, and Tyler Chapman appear in smaller supporting capacities.
 

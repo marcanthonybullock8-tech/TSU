@@ -5,7 +5,7 @@
 
 ## THE PITCH
 
-**Platform:** THE PROJECTOR — TSU's fictional 1:1 counterpart to YouTube (per `TSU_Platform_Roster.md`, Phase 2 — "Your Star-Lord: didn't mean to end up here, ends up defining the era anyway.") The pre-existing in-story power-tag stays as written; per precedent (`TSU_Continuity_Bible.md` §9, where THE WIRE kept its "Quicksilver" tag while filling the Hulk release slot), a platform's Villains-Bench/MCU-power flavor and its release-slot assignment are tracked on separate axes.
+**Platform:** THE PROJECTOR — TSU's fictional 1:1 counterpart to YouTube (per `TSU_Platform_Roster.md`, Phase 2 — didn't mean to end up here, ends up defining the era anyway.)
 
 **Why THE PROJECTOR for the Thor slot:** Thor's arc is inherited greatness, arrogance that costs him everything, banishment to an ordinary world, and a slow relearning of what actually makes someone worthy of the power he was born with. Of the remaining unassigned core seven, only one was *already* famous before any of this started, on a completely different axis than the rest of the group — `TSU_Core_Cast.md` calls Tyrese Avery "already superstar-level famous by 2004," the group's own prince, thinking about "audience and fandom and distribution at a scale the actors... aren't yet." A broadcast-distribution platform, built by a global pop star arrogant enough to believe fame alone makes him qualified to run a company, is TSU's cleanest available Thor.
 
