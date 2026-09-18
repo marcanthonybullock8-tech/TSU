@@ -87,7 +87,7 @@ THE ENGINE makes its third appearance here, weaponized directly for the first ti
 | 7 | EXT. ATLANTA (INSERT, BRIEF) — Amond, unnamed in dialogue, glimpsed at a distance — the audience's only sight of him this film | 16–17 |
 | 8 | INT. STARTUP OFFICE — DAY — Tyrese Avery arrives "between tour stops"; the friend group's math doesn't add up with one seat empty | 17–20 |
 | 9 | INT. ELDRIDGE KANE'S WORKSHOP — NIGHT — introduce Eldridge; his father Solomon's story, told plainly, without villain music | 20–24 |
-| 10 | INT. BULLOCK ESTATE — VICTOR DONOHUE'S STUDY — DAY — Marc-Anthony asks his grandfather, lightly, about "the old days"; Victor's answer is a little too smooth | 24–27 |
+| 10 | INT. DONOHUE ESTATE — VICTOR DONOHUE'S STUDY — DAY — Marc-Anthony asks his grandfather, lightly, about "the old days"; Victor's answer is a little too smooth | 24–27 |
 | 11 | INT. STARTUP OFFICE — NIGHT — Marc-Anthony collapses briefly at his desk; Esther catches it this time, and he lies about why | 27–30 |
 | 12 | INT. MAXWELL'S OFFICE — DAY — Maxwell greenlights Eldridge's plan; Eldridge's condition: it happens live, publicly, no half-measures | 30–32 |
 | 13 | INT. BULLOCK ESTATE — NIGHT — Marc-Anthony, alone, finally dials Amond's number and doesn't press call. Act I turn. | 32–34 |
@@ -116,7 +116,7 @@ THE ENGINE makes its third appearance here, weaponized directly for the first ti
 | 31 | INT. TYRESE'S CAR — DAY — Tyrese decides, without asking permission, to go find Eldridge Kane himself | 89–92 |
 | 32 | INT. ELDRIDGE'S WORKSHOP — DAY — Tyrese and Eldridge, one-on-one; Tyrese actually listens instead of threatening | 92–96 |
 | 33 | INT. TYRESE'S CAR — NIGHT — Tyrese, driving back: "What if he's not lying about your grandfather?" | 96–98 |
-| 34 | INT. BULLOCK ESTATE — VICTOR'S STUDY — NIGHT — Marc-Anthony confronts Victor directly this time; Victor's smooth answer finally cracks. All-is-lost beat closes Act II. | 98–101 |
+| 34 | INT. DONOHUE ESTATE — VICTOR'S STUDY — NIGHT — Marc-Anthony confronts Victor directly this time; Victor's smooth answer finally cracks. All-is-lost beat closes Act II. | 98–101 |
 
 ### ACT III — pp. 102–134 ("The Settlement")
 
@@ -129,7 +129,7 @@ THE ENGINE makes its third appearance here, weaponized directly for the first ti
 | 39 | INT. TOP8 OFFICES — DAY — Carter Westbrook, alone with the consequences of his own choice; a quiet scene of consequences without punishment | 114–117 |
 | 40 | EXT. PRESS CONFERENCE — DAY — Marc-Anthony, in front of the same cameras that broke him a week earlier, confirms Solomon Kane's claim on the record. Climax. | 117–123 |
 | 41 | INT. ELDRIDGE'S WORKSHOP — DAY (AFTER) — Eldridge, watching the press conference, gets something money never could have bought him: being believed | 123–126 |
-| 42 | INT. BULLOCK ESTATE — VICTOR'S STUDY — NIGHT — Victor and Marc-Anthony, an uneasy peace, no easy forgiveness offered either direction | 126–129 |
+| 42 | INT. DONOHUE ESTATE — VICTOR'S STUDY — NIGHT — Victor and Marc-Anthony, an uneasy peace, no easy forgiveness offered either direction | 126–129 |
 | 43 | INT. BULLOCK ESTATE — JANUARY 5, 2005 — Marc-Anthony's 23rd birthday, small, quiet, the people who actually matter, one chair conspicuously empty | 129–132 |
 | 44 | STINGER — INT. PRIYA RAMASUBRAMANIAN'S OFFICE — DAY — Priya, alone, pins index cards to a corkboard: THE ROSTER. A messaging app in Atlanta. A video-sharing pivot up north. A pattern, forming. | 132–134 |
 
