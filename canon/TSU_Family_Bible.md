@@ -45,6 +45,8 @@ A thousand-percent daddy's girl, spoiled by Marc-Anthony endlessly and yet — p
 **Born:** May 10, 2012. Marc-Anthony's daughter with Esther Smilley. Younger twin.
 Also a thousand-percent daddy's girl, also spoiled endlessly, also respectful and responsible underneath it — but where Emma is Marc-Anthony's steady mirror, Victoria is his contained wild card: a genuine wild child, just one who somehow always keeps it within bounds. Like Emma, nearly all of her talent and personality is inherited from her father.
 
+**Pregnancy timeline (locked, realistic dating):** Twins are almost never full-term — the real-world average gestational age at delivery is about 36 weeks, versus ~40 for a singleton. Counting back 36 weeks from Emma and Victoria's May 10, 2012 birth puts conception at **approximately September 15, 2011** (LMP around September 1, 2011, plus the standard ~2-week gap to ovulation/conception). This lands squarely inside the locked "together 2011" window for Marc-Anthony and Esther (`TSU_Continuity_Bible.md` §4) — specifically the night dramatized in `scripts/THE_ASSEMBLY.md`, scene 32 (EXT. MARC-ANTHONY'S HOUSE — NIGHT, SEPTEMBER 2011), the first night they stop being "just friends." Not a coincidence the film left open; it's now the canon reading of that scene. A realistic range if delivery fell anywhere from 34–38 weeks instead of exactly 36 puts conception between late August and late September 2011 — September 15 is the locked best estimate, not a hard boundary.
+
 **Note:** Lyric Baker (b. April 20, 2014, daughter of Amond Baker and Harmony Divine) is not a Bullock by blood, but Marc-Anthony is her godfather — see The Baker Family below for her entry.
 
 ---

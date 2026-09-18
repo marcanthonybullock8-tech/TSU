@@ -115,7 +115,7 @@ Per the Villains Bench rules (`TSU_Continuity_Bible.md` §5), the real cause tra
 | 29 | INT. AMOND'S OFFICE — CONTINUOUS — the beginning of something like forgiveness — not finished, but started, honestly, for the first time | 104–108 |
 | 30 | INT. SENATOR ASHWORTH-OKAFOR'S OFFICE (CAMEO) — DAY — the Senator, already circling THE EVERYTHING's rapid unchecked growth | 108–111 |
 | 31 | INT. THE ROSTER — BOARDROOM — DAY — Teddy, cornered by evidence, doesn't confess — tries to accelerate the acquisition instead. | 111–115 |
-| 32 | EXT. MARC-ANTHONY'S HOUSE — NIGHT — Esther and Marc-Anthony, the group scattered elsewhere, the "together 2011" beat lands here, unhurried | 115–119 |
+| 32 | EXT. MARC-ANTHONY'S HOUSE — NIGHT, SEPTEMBER 2011 — Esther and Marc-Anthony, the group scattered elsewhere, the "together 2011" beat lands here, unhurried — the night Emma and Victoria are conceived, per realistic twin-gestation dating back from their May 10, 2012 birth (see `TSU_Family_Bible.md`) | 115–119 |
 | 33 | INT. AMOND'S CAR — NIGHT — Harmony and Amond, closer than they've let themselves be in years, still not naming it — deliberately | 119–122 |
 | 34 | EXT. INDUSTRY EXPO CENTER — DAY (BEFORE) — arrival for THE EVERYTHING's launch; all four founders present, together, on purpose this time | 122–126 |
 | 35 | INT. EXPO CENTER — BACKSTAGE — Priya's team readies Yolanda's evidence; the plan is exposure, not sabotage | 126–130 |
