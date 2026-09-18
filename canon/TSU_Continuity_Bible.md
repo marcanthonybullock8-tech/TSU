@@ -136,8 +136,8 @@ Where each founding cast member is, professionally, at the start and end of each
 
 | Character | Status, end of THE ROSTER 3 (May 2012) |
 |---|---|
-| Marc-Anthony Bullock | Founder/CEO, THE ROSTER; arrhythmia finally under real treatment; survived THE UNSEEN crisis by delegating rather than solving it alone; father to Emma and Victoria as of this film's final scene |
-| Esther Smilley | Named President of THE ROSTER, formally, in this film's final scene — the title made official, not new; publicly dismantled Desmond Okafor-Lindqvist's synthetic-media operation herself; mother to Emma and Victoria |
+| Marc-Anthony Bullock | **Chairman and CEO, THE ROSTER — unchanged, not up for negotiation in this film**; arrhythmia finally under real treatment; survived THE UNSEEN crisis by delegating rather than solving it alone; father to Emma and Victoria as of this film's final scene |
+| Esther Smilley | **Named President of THE ROSTER (day-to-day operations), formally, in this film's final scene** — the role made official, not new, and not a change to Marc-Anthony's title; publicly dismantled Desmond Okafor-Lindqvist's synthetic-media operation herself; mother to Emma and Victoria |
 | Amond Baker | Founder/CEO, THE WIRE; caught Marc-Anthony's second collapse before anyone else did; reconciliation with Marc-Anthony now genuinely warm, if still imperfect |
 | Tyrese Avery / Arianna Cummings | Both platforms' engineering teams co-built THE ROSTER's proof-of-origin countermeasure — the ensemble's first fully coordinated technical collaboration across companies |
 | Desmond Okafor-Lindqvist | Exposed and in legal proceedings via Constance Abiodun-Mayhew; settlement includes public patent credit rather than just consulting fees |

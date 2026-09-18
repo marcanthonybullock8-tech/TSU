@@ -9,7 +9,7 @@
 
 **Why a third ROSTER film fits the Iron Man 3 slot exactly:** Iron Man 3 opens on a hero who helped save the world in a giant public battle and is now quietly falling apart from the inside — panic attacks, obsessive over-building, a past mistake finally arriving to collect. Marc-Anthony Bullock stood on a stage in front of the world's press six months ago and watched a rival's platform vaporize live on television. That's not nothing to walk away from. This film is the bill for that night.
 
-**Who this film belongs to:** Marc-Anthony Bullock, again — but not alone this time, which is the actual point. Esther Smilley, now running much of THE ROSTER's operations per the locked status coming out of `scripts/THE_ASSEMBLY.md`, gets her own full hero beat here rather than a supporting one, mirroring Pepper Potts's Extremis-era arc in the source film exactly: she is not rescued, she rescues herself, using her own competence rather than borrowed power. Amond Baker, Tyrese Avery, and Arianna Cummings all appear as a real, coordinated ensemble — this is the first ROSTER film where Marc-Anthony is never expected to solve anything by himself, and the plot is built to prove that's the correct way to run a company and a life.
+**Who this film belongs to:** Marc-Anthony Bullock, again — but not alone this time, which is the actual point. He remains Chairman and CEO throughout; that title is never in question or up for negotiation in this film. Esther Smilley, already running much of THE ROSTER's day-to-day operations per the locked status coming out of `scripts/THE_ASSEMBLY.md`, gets that role made official — President — and gets her own full hero beat here rather than a supporting one, mirroring Pepper Potts's Extremis-era arc in the source film exactly: she is not rescued, she rescues herself, using her own competence rather than borrowed power. Amond Baker, Tyrese Avery, and Arianna Cummings all appear as a real, coordinated ensemble — this is the first ROSTER film where Marc-Anthony is never expected to solve anything by himself, and the plot is built to prove that's the correct way to run a company and a life.
 
 **In-universe timeline:** **January 5, 2012 – May 10, 2012.** Opens on Marc-Anthony's 30th birthday (per `TSU_Core_Cast.md`, b. Jan 5, 1982) and closes on the fixed, locked date of Emma and Victoria Bullock's birth (`TSU_Family_Bible.md`) — a five-month span deliberately bookended by two dates that were already canon before this film existed. Esther (b. Sept 20, 1982) is 29, visibly, heavily pregnant with twins conceived the previous September (`scripts/THE_ASSEMBLY.md` scene 32) for the entire runtime — her physical state is not incidental to the plot, it's the whole reason the climax has to be won without anyone laying a hand on her.
 
@@ -29,7 +29,7 @@ The reveal, when it comes, isn't a stranger. It's **Desmond Okafor-Lindqvist** �
 
 The attack turns personal when a devastatingly convincing fake — Esther, apparently caught saying something career-ending and cruel about the company's own users — gets released two weeks before her due date. Marc-Anthony's instinct is to handle it alone, quietly, even considering paying Desmond off through back channels rather than risk Esther's health with the stress of a public fight. Esther refuses to let him. Working with litigator **Constance Abiodun-Mayhew** and a cryptographic proof-of-origin system Tyrese and Arianna's engineering teams build in days, she stages her own public response — not a denial, a demonstration, live, of exactly how the fake was made and who made it — and dismantles Desmond's credibility herself, on her own terms, seven months pregnant and entirely unrescued.
 
-Desmond is exposed, his network collapses, and the platform survives — not because Marc-Anthony finally beat the villain single-handedly, but because he finally let the people around him do the parts he couldn't. In the hospital on May 10, 2012, hours after Emma and Victoria are born, Marc-Anthony tells Esther the truth about his heart for the first time without her having to ask — and asks her to be THE ROSTER's President, formalizing the job she's already been doing, so that the company never again depends on one person refusing to put anything down.
+Desmond is exposed, his network collapses, and the platform survives — not because Marc-Anthony finally beat the villain single-handedly, but because he finally let the people around him do the parts he couldn't. In the hospital on May 10, 2012, hours after Emma and Victoria are born, Marc-Anthony tells Esther the truth about his heart for the first time without her having to ask — and asks her to be THE ROSTER's President, formalizing the day-to-day operating role she's already been doing in practice. He stays Chairman and CEO; the point isn't the org chart, it's that the company never again depends on one person refusing to put anything down.
 
 ---
 
@@ -121,7 +121,7 @@ Per the Villains Bench rules (`TSU_Continuity_Bible.md` §5), the real cause tra
 | 34 | INT. HOSPITAL — DAY — Marc-Anthony watches Esther's press conference from a hospital bed, on a phone held by Amond, and understands completely | 118–121 |
 | 35 | EXT. BULLOCK HOME — DAY — a quiet scene, Marc-Anthony finally seeing a doctor properly, treatment plan in place, Esther beside him this time | 121–124 |
 | 36 | INT. HOSPITAL — MAY 10, 2012 — Emma and Victoria are born. The fixed, locked date arrives exactly on schedule. | 124–127 |
-| 37 | INT. HOSPITAL — CONTINUOUS — Marc-Anthony asks Esther to be THE ROSTER's President, formally, in the same breath as meeting his daughters | 127–129 |
+| 37 | INT. HOSPITAL — CONTINUOUS — Marc-Anthony asks Esther to be THE ROSTER's President (day-to-day operations), formally, in the same breath as meeting his daughters — he remains Chairman and CEO | 127–129 |
 | 38 | STINGER — INT. PRIYA RAMASUBRAMANIAN'S OFFICE — DAY — the corkboard, now sprawling well past four cards | 129–130 |
 
 *(Scenes grouped for pagination clarity; the full shooting script breaks several of the above into additional numbered scenes to land the true count at 47 per the house-style table above.)*
@@ -361,8 +361,11 @@ only a room like this can be.
                     MARC-ANTHONY
           I want you to be President. Officially.
           Not "effectively running things while I
-          get the title." President. Your name on
-          the door next to mine.
+          get the title." President — the actual
+          title, running the actual company day to
+          day. I'm not stepping away from Chairman
+          and CEO. I'm finally admitting I shouldn't
+          be the only name on the building.
 
                     ESTHER
           (tired, amused)
