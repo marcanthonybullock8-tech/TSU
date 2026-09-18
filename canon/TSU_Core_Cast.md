@@ -59,6 +59,9 @@ The odd one out by profession — not an actor, a full-blown global pop star, al
 **The Role in the Group**
 Tyrese functions as the crew's outside perspective — he's adjacent to the acting world through friendship, not competing in it, which makes him the one who can see the industry's shape from a slight distance. That distance is exactly what makes him valuable later: he's thinking about audience and fandom and distribution at a scale the actors, focused on roles and reviews, aren't yet.
 
+**The Relationship**
+Dr. Simone Kester. Unlike the other six, Tyrese had no locked romantic timeline in the original source material — this one originates in `scripts/THE_PROJECTOR.md` rather than working around a pre-set future date. She runs a small contract-engineering shop in Atlanta and, notably, is the first person in years to have no interest whatsoever in who he is or was.
+
 ---
 
 ### ESTHER SMILLEY (later Bullock)

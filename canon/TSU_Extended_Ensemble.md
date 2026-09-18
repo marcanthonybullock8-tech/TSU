@@ -18,6 +18,10 @@
 
 **CARTER WESTBROOK** — TOP8's founder, watching his company die in public during the Feed War (`TSU_Continuity_Bible.md` §3) and making one desperate, understandable, wrong decision on the way down: bankrolling Eldridge Kane's attack on THE ROSTER through Maxwell Sterling Asante's money. Not written as a villain — a direct, deliberate contrast with Marc-Anthony, two founders under identical pressure, one with people left to lean on and one without.
 
+**JAMAL KESTER** — Tyrese Avery's longtime, never-billed co-writer and producer, the actual author of much of Tyrese's biggest catalog. Not a villain by any measure of `scripts/THE_PROJECTOR.md` — his public exposure of Tyrese's credit theft is overdue, not sabotage, and the film is careful never to frame him as an antagonist. Estranged for years from his sister, Dr. Simone Kester, over a smaller, quieter version of the same "uncredited" wound.
+
+**DR. SIMONE KESTER** — Jamal Kester's older sister, a sharp, unimpressed contract engineer running a small shop in Atlanta, and the first person in years to have no interest whatsoever in who Tyrese Avery is or was. Tyrese's Core Cast bio never locked a romantic partner the way the other six core-seven members did — Simone originates that arc in `scripts/THE_PROJECTOR.md` without contradicting anything previously on the books.
+
 **DESMOND OKAFOR-LINDQVIST** — The rival who was right about everything and still lost. Built a platform in Phase 2 that does, technically, everything THE GALLERY or THE HIVE eventually does — just two years too early, with a UI nobody could parse and a business model that assumed users would pay a subscription in an era that hadn't learned to. He's the "we told you so" ghost of the franchise: shows up in later Phases as a bitter, brilliant consultant everyone secretly wants to hire and nobody wants to publicly credit. Tragic-comic energy — think the guy who invented the thing everyone else got rich off.
 
 ## THE MENTORS & GATEKEEPERS
